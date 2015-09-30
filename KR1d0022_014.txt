@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮說
-#+DATE: 2015-09-23 09:37:37
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:08:18.433358
+#+PROPERTY: ID KR1d0022
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1d0022_WYG_014-1a>¶
 欽定四庫全書¶
 　禮說卷十四　　　　翰林院侍講惠士竒撰¶
@@ -506,4 +508,3 @@
 扄以貫鉉非卽鉉也先儒合爲一物失之其說近是並¶
 存以備攷¶
 　禮說卷十四¶
-
